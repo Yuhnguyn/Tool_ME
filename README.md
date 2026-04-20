@@ -4,11 +4,9 @@
 
 ---
 
-<video src="https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4" controls="controls" style="max-width: 100%;">
-  Trình duyệt của bạn không hỗ trợ xem video trực tiếp.
-</video>
+https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4
 
-> *Mẹo: Nếu video không hiển thị, hãy thử mở trang GitHub bằng trình duyệt Chrome hoặc Edge. Định dạng MP4 được hỗ trợ tốt nhất trên các trình duyệt này.*
+> *Mẹo: Nếu bạn không xem được video trực tiếp trên README, hãy nhấn vào dòng link phía trên hoặc tải file về để xem.*
 
 ---
 

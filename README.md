@@ -4,9 +4,11 @@
 
 ---
 
-https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4
+<div align="center">
+  <video src="https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4" width="100%" controls alt="ToolME Demo Video"></video>
+</div>
 
-> *Mẹo: Nếu bạn không xem được video trực tiếp trên README, hãy nhấn vào dòng link phía trên hoặc tải file về để xem.*
+> *Mẹo: Nếu video không tự động hiển thị, bạn có thể xem trực tiếp tại [đây](https://github.com/Yuhnguyn/Tool_ME/blob/main/assets/video/demo.mp4).*
 
 ---
 

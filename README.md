@@ -6,7 +6,7 @@
 
 ## 📺 Video Hướng dẫn Sử dụng
 
-![Video Demo](assets/video/demo.mov)
+![Video Demo](assets/video/demo.mp4)
 
 > *Mẹo: Bạn có thể xem video hướng dẫn thao tác trực tiếp ngay tại đây. Nếu chưa có video, hãy tải file lên thư mục `assets/video/demo.mp4`.*
 

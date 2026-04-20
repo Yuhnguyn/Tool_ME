@@ -4,9 +4,11 @@
 
 ---
 
-![Video Demo](assets/video/demo.mp4)
+<video src="https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4" controls="controls" style="max-width: 100%;">
+  Trình duyệt của bạn không hỗ trợ xem video trực tiếp.
+</video>
 
-> *Mẹo: Bạn có thể xem video hướng dẫn thao tác trực tiếp ngay tại đây. Nếu chưa có video, hãy tải file lên thư mục `assets/video/demo.mp4`.*
+> *Mẹo: Nếu video không hiển thị, hãy thử mở trang GitHub bằng trình duyệt Chrome hoặc Edge. Định dạng MP4 được hỗ trợ tốt nhất trên các trình duyệt này.*
 
 ---
 

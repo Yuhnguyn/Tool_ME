@@ -4,7 +4,9 @@
 
 ---
 
-<video src="assets/video/demo.mp4" controls="controls" style="max-width: 100%;">
+## 📺 Video Hướng dẫn Sử dụng
+
+<video src="assets/video/demo.mov" controls="controls" style="max-width: 100%;">
   Trình duyệt của bạn không hỗ trợ xem video trực tiếp.
 </video>
 

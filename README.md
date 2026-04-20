@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <video src="https://github.com/Yuhnguyn/Tool_ME/raw/main/assets/video/demo.mp4" width="100%" controls alt="ToolME Demo Video"></video>
+  <video src="assets/video/demo.mp4" width="100%" controls></video>
 </div>
 
 > *Mẹo: Nếu video không tự động hiển thị, bạn có thể xem trực tiếp tại [đây](https://github.com/Yuhnguyn/Tool_ME/blob/main/assets/video/demo.mp4).*

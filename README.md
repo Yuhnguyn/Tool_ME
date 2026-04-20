@@ -8,7 +8,7 @@
 
 ![Video Demo](assets/video/demo.mov)
 
-> *Mẹo: Bạn có thể xem video hướng dẫn thao tác trực tiếp ngay tại đây. Nếu chưa có video, hãy tải file lên thư mục `assets/video/demo.mov`.*
+> *Mẹo: Bạn có thể xem video hướng dẫn thao tác trực tiếp ngay tại đây. Nếu chưa có video, hãy tải file lên thư mục `assets/video/demo.mp4`.*
 
 ---
 
@@ -55,4 +55,5 @@
 ---
 
 *Phát triển bởi HuyNguyen*
+
 # Tool_ME

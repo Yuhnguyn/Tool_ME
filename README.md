@@ -51,7 +51,7 @@
 1. **Gửi thử trước:** Luôn dùng tính năng `Preview Selected Row` hoặc `Send Selected Row` để kiểm tra 1 học sinh trước khi chạy hàng loạt.
 2. **Trạng thái HS:** Tool sẽ tự động bỏ qua những học sinh có trạng thái "Nghỉ hẳn" hoặc "Chuyển đi".
 3. **Reset lỗi:** Nếu muốn gửi lại những dòng bị lỗi sau khi đã sửa dữ liệu, hãy chạy `ToolME` > `Reset Error Status`.
-
+4. **Lớp Online** Ô Note Bù điền số bài ; HS chưa làm/quên vở -> không cần điền gì các ô khác 
 ---
 
 *Phát triển bởi HuyNguyen*
